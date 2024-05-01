@@ -1,0 +1,4 @@
+mail ()]
+{
+public.void.main()
+}
