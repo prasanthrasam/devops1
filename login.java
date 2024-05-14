@@ -1,6 +1,6 @@
 mail ()]
 {
-public.void.main()
+public.void.main(a=10i)
 }
 main()
 print("Second code")
